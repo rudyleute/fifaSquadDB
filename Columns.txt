@@ -1,0 +1,14 @@
+leagueteamslinks
+	leagueid, teamid, prevleagueid, grouping, champion, previousyeartableposition
+mls_group_structure
+	groupid, teamid
+leagues
+	leagueid, leaguename, countryid
+teams
+	teamid, overallrating, rivalteam
+team nationlinks
+	leagueid, nationid, teamid
+competition
+	competitionid, iswomencompetition
+euroseeds
+	competitionid, group, groupslot, isqualified, teamid
